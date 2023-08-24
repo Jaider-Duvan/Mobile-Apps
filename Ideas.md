@@ -23,6 +23,17 @@
     <li>VSCO</li>
     <li>NatureScapes</li>
     <li>Pixoto</li>
+
+    <h2><li>Habit Tracker</li></h2>
+<p>La idea es crear una aplicación en la cual los usuarios puedan escribir su lista de tareas diarias , semanales ó mensuales.
+Esta app dara una alerta diaria y nos mostrará las tareas cumplidas y las que no.
+en la app podremos crear tareas de forma rapida , tendremos recordatorios de tareas. </p>
+<h3>Aplicaciones similares:</h3>
+<ul>
+    <li>To-do List</li>
+    <li>prody</li>
+    <li>to-do</li>
+</ul>
 </ul>
 
 </body>
