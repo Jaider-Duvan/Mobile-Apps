@@ -31,7 +31,7 @@ agregar tarea , calendarioy home
 <p>En esta pantalla Encontraras el apartado del nombre , idioma y cerrar seccion y con ellos el usuario 
 podra cambiar el nombre el idioma y cerrar su seccion si lo desea.
 
-![Docs/imagenes/Conf.png](https://github.com/Jaider-Duvan/Mobile-Apps/blob/cdb2da27cbc9d769266a6e1d463ea025bb90b6ca/Docs/imagenes/Conf.png)https://github.com/Jaider-Duvan/Mobile-Apps/blob/cdb2da27cbc9d769266a6e1d463ea025bb90b6ca/Docs/imagenes/Conf.png)</p>
+![Docs/imagenes/Conf.png](https://github.com/Jaider-Duvan/Mobile-Apps/blob/cdb2da27cbc9d769266a6e1d463ea025bb90b6ca/Docs/imagenes/Conf.png)</p>
 
 </body>
 </html>
